@@ -1,6 +1,8 @@
 # thinkpad-t480-hackintosh
 thinkpad-t480-hackintosh
 
+> mojave 10.14
+
 # info
 ---
 ## Hardware (OEM):
@@ -27,3 +29,4 @@ thinkpad-t480-hackintosh
 - HDMI video port, with audio
 - USB type-C video output, with audio
 - Sleep/resume 
+- usb wifi working with mojave 10.14
