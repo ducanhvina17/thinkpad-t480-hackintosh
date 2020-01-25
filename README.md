@@ -2,6 +2,7 @@
 thinkpad-t480-hackintosh
 
 > mojave 10.14
+> catalina 10.15
 
 # info
 ---
@@ -15,18 +16,17 @@ thinkpad-t480-hackintosh
 
 ## Hardware (upgraded):
 - Intel 760P 256GB MVMe SSD
-- DWA 131 wireless usb adapter 
-
+- DW1820a
 # Status
 ---
 ## Working
 - Keyboard & TrackPoint/TrackPad (as mouse)
 - Screen brightness & brightness shortcut keys
 - Basic audio including speaker, internal mic, headphone jack
-- Touchscreen (multi)
+- Touchscreen (multi) (10.14)
 - Camera
 - All USB ports
 - HDMI video port, with audio
 - USB type-C video output, with audio
 - Sleep/resume 
-- usb wifi working with mojave 10.14
+- wifi, bluetooth
